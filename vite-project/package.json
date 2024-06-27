@@ -14,5 +14,8 @@
   "devDependencies": {
     "vite": "^5.0.0",
     "vitest": "^1.5.3"
+  },
+  "dependencies": {
+    "score-tests": "^1.0.0"
   }
 }
