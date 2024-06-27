@@ -1,12 +1,3 @@
-# Question
-In a code snippet, demonstrate a `User` class with at least one:
-- class property
-- class method
-- instance property
-- instance method
-
-# Answer
-```js
 class User {
     static #userCount = 0;
 
@@ -28,6 +19,6 @@ class User {
         return User.#userCount;
     }
 }
-```
+console.log(User.getUserCount());
 
-# Teacher Feedback
+
